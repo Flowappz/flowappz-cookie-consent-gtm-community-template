@@ -12,6 +12,18 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// Terms of Service
+// By using the FlowAppz Cookie Consent GTM Template ("Template"), you agree to abide by 
+// all applicable laws and regulations. This Template is provided "as is" without any 
+// warranties or guarantees. FlowAppz is not responsible for any issues, including but 
+// not limited to compliance with data protection laws (e.g., GDPR, CCPA).
+// 
+// Users are responsible for ensuring that their implementation of this Template meets 
+// legal and business requirements. Unauthorized modification, resale, or distribution 
+// of this Template is strictly prohibited.
+// 
+// For more details, visit: https://www.flowappz.com/terms-and-conditions
+
 ___INFO___
 
 {
