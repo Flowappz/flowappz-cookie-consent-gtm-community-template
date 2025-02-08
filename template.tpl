@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+___TERMS_OF_SERVICE___
 // Terms of Service
 // By using the FlowAppz Cookie Consent GTM Template ("Template"), you agree to abide by 
 // all applicable laws and regulations. This Template is provided "as is" without any 
