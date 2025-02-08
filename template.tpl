@@ -12,18 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-___TERMS_OF_SERVICE___
-// Terms of Service
-// By using the FlowAppz Cookie Consent GTM Template ("Template"), you agree to abide by 
-// all applicable laws and regulations. This Template is provided "as is" without any 
-// warranties or guarantees. FlowAppz is not responsible for any issues, including but 
-// not limited to compliance with data protection laws (e.g., GDPR, CCPA).
-// 
-// Users are responsible for ensuring that their implementation of this Template meets 
-// legal and business requirements. Unauthorized modification, resale, or distribution 
-// of this Template is strictly prohibited.
-// 
-// For more details, visit: https://www.flowappz.com/terms-and-conditions
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
 
 ___INFO___
 
