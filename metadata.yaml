@@ -15,5 +15,5 @@
 homepage: "https://www.flowappz.com"
 documentation: "https://docs.flowappz.com/products/cookie-consent/google-tag-manager-integration"
 versions:
-  - sha: 6fe1487c2c03eb2436ffd4214bce1e94f04502e5
+  - sha: c08d33e3f7cfed669be29db42705a35cfc8a2fe3
     changeNotes: Initial Version
