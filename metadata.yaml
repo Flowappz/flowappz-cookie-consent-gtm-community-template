@@ -17,3 +17,5 @@ documentation: "https://docs.flowappz.com/products/cookie-consent/google-tag-man
 versions:
   - sha: c08d33e3f7cfed669be29db42705a35cfc8a2fe3
     changeNotes: Initial Version
+  - sha: 895cfb86a984062cc6a7b50fca7777aded36e662
+    changeNotes: wait_for_update option included in setDefaultConsentState call
