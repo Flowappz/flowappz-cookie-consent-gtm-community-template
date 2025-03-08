@@ -57,7 +57,7 @@ const consentMapping = {
 
 // Function to return the GTM Consents default state from cookies
 function getConsentStatus(consents) {
-  const consentStatus = {};
+  const consentStatus = {wait_for_update: 20000};
 
   // Loop over the consents to check each cookie
   for (const cookieName in consents) {
